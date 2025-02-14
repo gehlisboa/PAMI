@@ -10,8 +10,8 @@
 }
 
 .bg-custom {
-    background: var(--quaternary-color);
-    background: linear-gradient(90deg, var(--quaternary-color) 0%, var(--quinary-color) 27%, var(--primary-color) 56%, var(--quinary-color) 81%, var(--quaternary-color) 100%);
+    background: rgb(255,135,186);
+    background: linear-gradient(90deg, rgba(255,135,186,1) 0%, rgba(255,180,220,1) 46%, rgba(255,60,119,1) 100%);
 }
 
 .navbar-brand,
